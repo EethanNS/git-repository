@@ -1,0 +1,13 @@
+{
+  "name": "eethans",
+  "version": "1.0.0",
+  "description": "an example of npm application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "dev": "node index.js"
+  },
+  "author": "Navaneethan Senthil",
+  "license": "MIT"
+}
